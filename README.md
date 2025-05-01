@@ -1,6 +1,7 @@
 # Python-Fundamentals-and-Applications-A-Comprehensive-Guide
 
 Python Fundamentals and Applications: A Comprehensive Guide
+
 Author: Ronald Parent
 
 Description
