@@ -1,8 +1,7 @@
 # Python-Fundamentals-and-Applications-A-Comprehensive-Guide
 
 Python Fundamentals and Applications: A Comprehensive Guide
-Author
-Ronald Parent
+Author: Ronald Parent
 
 Description
 This project provides a comprehensive guide covering the fundamental concepts and common applications of the Python programming language. It is designed to serve as a learning resource, progressing from basic syntax to more involved topics like object-oriented programming and file handling.
